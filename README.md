@@ -7,4 +7,4 @@
 -install all the necessary packages mentioned in package.json.
 - to run on localhost - command: npm run start
 
-- this application is hosted on https://pnotesmernapp.herokuapp.com/ but the when we try to login or signup the api gets timed out because of the internal node.js functions used to validate data and then fetch it.
+- this application is hosted on https://pnotesmernapp.herokuapp.com/ but when we try to login or signup the api gets timed out because of the internal node.js functions used to validate data and then fetch it.
